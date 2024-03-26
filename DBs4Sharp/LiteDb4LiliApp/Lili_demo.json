@@ -1,0 +1,1165 @@
+{
+	"ANALGESICOS, RELAJANTES, SEDANTES":
+	{
+		"FENTANILO" :
+		{
+			"NombreFarmacologico": "n21",
+			"NombreComercial": "nc21",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"KETOROLACO" :
+		{
+			"NombreFarmacologico": "nf22",
+			"NombreComercial": "nc22",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"METAMIZOL" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"MIDAZOLAM" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"MORFINA" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"PARACETAMOL" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"TRAMADOL" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		}
+	},	
+	"ANTIARRÍTMICOS":
+	{
+		"ADENOSINA" :
+		{
+			"NombreFarmacologico": "n21",
+			"NombreComercial": "nc21",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"ADRENALINA CLORHIDRATO" :
+		{
+			"NombreFarmacologico": "nf22",
+			"NombreComercial": "nc22",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"ALBÚMINA 20%-5%" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"AMIODARONA" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"ATROPINA" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"DOBUTAMINA" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"DOPAMINA" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"NORADRENALINA" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		}
+	},	 
+	"ANTICOAGULANTE":
+	{	
+		"ENOXAPARINA" :
+		{			
+			"NombreFarmacologico": "nf11",
+			"NombreComercial": "nc11",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		}
+	},
+	"ANTICONVULSIVANTES":
+	{
+		"FENITOÍNA" :
+		{
+			"NombreFarmacologico": "n21",
+			"NombreComercial": "nc21",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"FENOBARBITAL" :
+		{
+			"NombreFarmacologico": "nf22",
+			"NombreComercial": "nc22",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		}
+	}, 
+	"ANTIINFECCIOSOS, ANTIFÚNGICOS, ANTIVIRALES":
+	{	
+		"Aciclovir" :
+		{
+			"NombreFarmacologico": "Aciclovir genérico",
+			"NombreComercial": "Zovirax",
+			"Grupo": "Agente antiviral oral, Agente antiviral parenteral, agente antiviral tópico.",
+			"PrincipioActivo": "Aciclovir",
+			"Accion": "Inhibe la síntesis de ADN y la multiplicación viral, al competir con el trifosfato de desoxiguanosina por la polimerasa del ADN vial e incorporarse a éste ácido nucleico del virus. Activo frente al virus del herpes humano (VHH). Inhibe la replicación de ADN viral interfiriendo con la ADN polimerasa viral. Muy activo frente al virus herpes simple (VHS) y el virus de varicela zóster (VVZ). menos activo frente al virus de Epstein-Barr y aún menos frente a citomegalovirus (CMV) y otros virus herpes.",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: Frasco de inyección en polvo (sódico) 250mg" ],
+			"Reconstitucion": "SI:  En caso de la presentación farmacéutica en polvo seco, reconstituir el polvo seco (500 mg) con 10- 20 ml de agua estéril (estable durante 12 h a temperatura ambiente)",
+			"Dosis": [ 
+				"Encefalitis por VHS (siempre por vía IV): 12 años: 30 mg/kg/día cada 8 h IV, durante 14-21 días. Se han utilizado hasta 45 mg/kg/día cada 8 h.", 
+				"Gingivoestomatitis herpética: Iniciar el tratamiento en las primeras 72 h. Eficacia controvertida. 60 mg/kg/día (máximo: 200 mg/dosis) cada 6 h por vía oral (VO) durante 7 días.", 
+				"Infección por VHS (mucocutánea, localizada, progresiva o diseminada) en huésped inmunocomprometido: Oral: ≥2 años: 1000 mg/día en 3-5 dosis, durante 7-14 días. Dosis máxima: 80 mg/kg/día, sin exceder 1 g/día.", 
+				"El paciente debe contar con un buen acceso vascular: PICC, CVC, acceso periférico en vena profunda, por ser un medicamento irritante y el riesgo de extravasación es alto. Antes y después de su administración,permeabilizar  el trayecto con SF evitando interacción cruzada e incompatibilidades. "],
+			"Cuidados": [ 
+				"Brindar cuidados de enfermería meticulosos, en especial en pacientes con inmunodeprimidos, SUH, con insuficiencia renal. Por lo tanto es importante mantener una buena hidratación del paciente durante la administración IV.", 
+				"Monitorear y administrar medicamentos , en el flujo y tiempo que le corresponde. Evitar la administración rápida por riesgo de falla renal y problemas a nivel SNC: agitación, confusión, alucinaciones.", 
+				"Monitorizar exámenes de laboratorio, recuento de neutrófilos y función renal.  Balance HÍDRICO ESTRICTO.", 
+				"Intravenoso menos de 12 años: 30 mg/kg/dia c/8hrs durante 7-14días",
+				"Intravenoso más de 12 años: 15 mg/kg/día c/8hrs, durante 7-14 días",
+				"Duración del tratamiento: 21 días en pacientes VIH positivo con enfermedad diseminada." ]
+		},
+		"Amikacina" :
+		{
+			"NombreFarmacologico": "Amikacina sulfato",
+			"NombreComercial": "Amikin, Amikacina",
+			"Grupo": "Antibiótico AMINOGLUCÓSIDO  semisintético",
+			"PrincipioActivo": "Amikacina sulfato",
+			"Accion": "Bactericida que actúa mediante la interferencia de la síntesis proteica bacteriana.",
+			"Presentacion": [ 
+				"Frasco: Las presentaciones de 1000mg/100ml y 500mg/100ml están listas para su preparación.", 
+				"Ampolla: 100 mg/2ml y 500mg/2ml.", 
+				"Vial: " ],
+			"Reconstitucion": "No.",
+			"Dosis": [ "5-7.5 mg/kg/dosis cada 8-12hrs" ],
+			"Cuidados": [ 
+				"Tener cuidado en pacientes deshidratados, graves, en shock, hipotensos.", 
+				"Vía permeable. Respetar los tiempos y volumen de infusión por riesgo de dolor, irritación y riesgo de flebitis. Vigilancia de acceso vascular y zona circundante.", 
+				"Valorar la hidratación del paciente: No administrar en pacientes en shock, grandes quemados, hipotensión grave o deshidratación grave.",
+				"Balance hídrico estricto horario. "
+			 ]
+		},
+		"Ampicilina" :
+		{
+			"NombreFarmacologico": "Ampicilina",
+			"NombreComercial": "Magnapen, Meprizina, Neo-Terbocilin",
+			"Grupo": "Antibiótico betalactámico semisintético.",
+			"PrincipioActivo": "AmpiciLina sódica",
+			"Accion": "Inhibe la síntesis de la pared celular bacteriana durante la fase de crecimiento y  multiplicación activa, induciendo un efecto autolítico, uniéndose a enzimas llamadas proteínas ligadoras de penicilian PBP).",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: Polvo liofilizado 500mg y de 1 gramo." ],
+			"Reconstitucion": "Si: Agua para infusión (API).",
+			"Dosis": [ 
+				"Niños: 50-100mg/kg/día  Máx 200mg/kg/día.", 
+				"Adolescentes: 1-2gr cada 6 hrs." ],
+			"Cuidados": [ 
+				"Tener en cuenta si la madre está con tratamiento de ampicilina ya que se excreta por la lactancia materna (en el niño puede producir diarrea, candidiasis y rash cutáneo).", 
+				"Indagar sobre alergia a las penicilinas, estar expectante a signos de alarma.",
+				"Tener en cuenta en la preparación, para uso IV o IM usar dentro de la hora.",
+				"Si se utilizan soluciones que contienen glucosa como diluyente, la solución resultante solo es estable 2h, en comparación de 8hrs para soluciones que contienen solución salina normal. (TKT).",
+				"Estar atenta en lactantes y niños, el riesgo de sensibilización: diarrea, candidiasis y rash cutáneo, reportar y registrar signos de alarma.", 
+				"Por ser un medicamento con un ph alcalino, tener un acceso venoso de buen calibre permeable, preferir PICC CVC." ]		
+		},
+		"Ceftriaxona" :
+		{
+			"NombreFarmacologico": "Ceftriaxona",
+			"NombreComercial": "Cefalogen, Ceftrian, Rocephin",
+			"Grupo": "Antibiótico. Cefalosporina de tercera generación.",
+			"PrincipioActivo": "Ceftriaxona sódica. ",
+			"Accion": "Bactericida (gérmenes gram positivos y negativos), interfiere en la síntesis del componente peptidoglucano de la pared celular bacteriana.",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: Vial de 1 gramo en polvo para administración IV, 500mg y 250mg con solución de reconstitución Lidocaína 1%." ],
+			"Reconstitucion": "Si",
+			"Dosis": [ 
+				"50-100 mg/k/día c/12-24 hrs. Máx 2gr.", 
+				"Neonatos: Meningitis: dosis de carga 100 mg/kg, seguido de 80 mg cada 24 horas.",
+				"Neonatos: Sepsis: 50 mg/kg cada 24 horas.", 
+				"Lactantes y niños menores de 12 años: (desde 15 días a 12 años), está recomendada una dosis diaria comprendida entre 20-80 mg/kg de peso.",
+				"Niños mayores de 12 años (o >50 kg): 1-2 g de cada 24 horas.    En casos graves o de infecciones causadas por bacterias moderadamente sensibles, puede aumentarse la dosis hasta 4 g, una sola vez al día." ],
+			"Cuidados": [ 
+				"Tener cuidado en la vía muscular: uso de músculo grande y no más de 1gr.", 
+				"Monitorizar función hepática, renal. Estar atento a reacción anafiláctica.",
+				"ener disponible y habilitado el coche de PCR.", 
+				"Importante tener en cuenta la condición y edad de los pacientes, teniendo precaución: neonato hiperbilirrubinémicos, en especial prematuros.",
+				"Determinar correctamente el tiempo de infusión y cantidad de dilución.", 
+				"Aplicar los 10 correctos y medidas de asepsia.",
+				"En caso tener la seguridad del medicamento preparado con LIDOCAINA, SOLO ES POR VIM, ( ROTULAR el frasco , si es dosis única desechar sobrante) NUNCA VIV.", 
+				"Administrar medicamento a través de un acceso vascular permeable y de buen calibre, observando signos de alarma: flebitis por fármaco irritante.", 
+				"Aplicar las medidas de seguridad en medicamentos reconstituídos: nombre del paciente, concentración soluto/solución (mg/ml), fecha y hora de preparación, fecha y hora." ]
+		},
+		"Ciprofloxacino" :
+		{
+			"NombreFarmacologico": "Ciprofloxacino Lactato",
+			"NombreComercial": "Baycip, Huberdoxina, Rigorán",
+			"Grupo": "Antibiótico  Quinolona. Antibacteriano fluoroquinolónico sintético de amplio espectro (quinolona de segunda generación de administración oral y parenteral. ",
+			"PrincipioActivo": "Ciprofloxacino Lactato",
+			"Accion": "Bactericida de amplio espectro. Interfiere en la replicación del  ADN bacteriano en los gramnegatuvos: inhibiendo a la ADN-girasa (topoisomerasa II). En los grampositivos: inhibiendo a la topoisomerasa IV.",
+			"Presentacion": [ 
+				"Frasco: Frasco infusor 200mg /100ml y Frasco infusor 400mg/200ml.", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "No.",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"Monitorear signos de alarma.", 
+				"Infundir por el tiempo indicado (60min) para aminorar el riesgo de irritación venosa (ardor, dolor, eritema e hinchazón).", 
+				"Acceso venoso permeable y de buen calibre, por el alto riesgo de flebo genicidad del producto (+++).", 
+				"Se ha observado cristaluria , por eso se recomienda estar bien hidratados y evitar una alcalinidad excesiva de la orina.", 
+				"Monitoreo de funciones vitales.", 
+				"Control y seguimiento de exámenes de laboratorio: discrasias sanguíneas, alteración de plaquetas, (mayor riesgo en pacientes con tratamiento de anticoagulantes).", 
+				"Monitorear función neurológica , en busca de signos de convulsiones." ]
+		},
+		"Clindamicina" :
+		{
+			"NombreFarmacologico": "Clindamicina",
+			"NombreComercial": "Clindacin 300-600mg, Dalacin 300mg y 600mg",
+			"Grupo": "Clindamicina lincosamídico, de espectro reducido",
+			"PrincipioActivo": "Clindamicina",
+			"Accion": "Inhibición de la síntesis proteica en la bacteria uniéndose a la subunidad 50s de los ribosomas bacterianos, evitando la formación de uniones peptídicas.",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: Solución inyectable 600mg/4ml.", 
+				"Vial: " ],
+			"Reconstitucion": "No.",
+			"Dosis": [ 
+				"Neonatos: 15-20 mg/k/d IM; EV 3-4 dosis.", 
+				"Niños mayores de 1mes: 15-40 mg/kg/d  en 3-4 dosis.", 
+				"NO administrar más de 30mg por minuto.", 
+				"NO se recomienda administrar más de 1.200 mg en una sola infusión de 1hora." ],
+			"Cuidados": [ 
+				"Vigilancia durante la administración del medicamento por vía intravenosa intermitente.", 
+				"No exceder las velocidades descritas , que pueden llevar a: hipotensión y paro cardiorespiratorio (administración rápida).", 
+				"Vigilar y monitorear función hepática o renal: registro de BH estricto y caracterisitcas de egresos.", 
+				"Informar inmediatamente alteraciones.", 
+				"Valoración del acceso vascular y tejidos circundantes por riesgo de flebitis." ]
+		},
+		"Clorafenicol" :
+		{
+			"NombreFarmacologico": "Cloranfenicol",
+			"NombreComercial": "Quemicetina 1ger, Cloromisan 1gr",
+			"Grupo": "Antibiótico bacteriostático de amplio espectro.",
+			"PrincipioActivo": "Cloranfenicol",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: Polvo para reconstituir 1gr" ],
+			"Reconstitucion": "Si.",
+			"Dosis": [ 
+				"R.N: 2omg/kg(1a dosis: IMPREGNACION), siguiente dosis 12 h después.", 
+				"< 7 días: 25mg/kg/día (c/24h).", 
+				"> 7 días: <2000gr: 25 mg/k/día (c/24hr).", 
+				"> 7 días: >2000gr: 50mg/kg/día divididos (c/12h).", 
+				"Lactantes y niños: Meningitis: 75 - 100 mg/k/día divididos c/6h.", 
+				"Lactantes y niños: otras infecciones: 50-75 mg/k/día divididos c/6h, máximo 4g/día." ],
+			"Cuidados": [ 
+				"Tener cuidado y precaución en prematuros y R.N. por 'riesgo del niño gris'.", 
+				"Monitorrear y vigilar la función renal y hepática : examenes de lalboratorio, diuresis, tolerancia y /o signos de alarma.", 
+				"Balance hídrico",
+				"Para valorar los valores de Cloranfenicol, coordinar  toma de muestra sea después  de 90 minutos , terminada la infusión del medicamento en infusión intermitente (30 min).", 
+				"Vía permeable, vigilancia de signos de flebitis.", 
+				"Mucho cuidado con la terapia en la madre gestante , el medicamento concentra dosis tan altas como en la madre. En la madre que brinda lactancia materna, pasa a través de ella al bebé, pudiendo ocurrir reacciones adversas graves." ]
+		},
+		"Colistina" :
+		{
+			"NombreFarmacologico": "Polimixina E.",
+			"NombreComercial": "Colistina",
+			"Grupo": "Antibiótico polipeptídico bactericida. Pertenece a la familia de las polimixinas.",
+			"PrincipioActivo": "Colistimetato de sodio.",
+			"Accion": "Se une a lipopolisacáridos y fosfolípidos de la membrana celular externa de bacterias gramnegativas.",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: 150mg polvo de colistina base. En España viales de 1 y 2 MUI de colistemetato de sodio." ],
+			"Reconstitucion": "Si: SSFF, API.",
+			"Dosis": [ 
+				"Colistimetato de sodio: 1 millón de unidades internacionales (MUI) = 80 mg de colistimetato de sodio.", 
+				"Dosis general (colistina base): VIM, VIV: : 2,5-5 mg/kg/día, dividido cada 6, 8 o 12 horas.", 
+				"Vía intravenosa: Neonatos, lactantes, escolares o <60 kg: 83 000-166 000 UI/kg/día, dividido en tres dosis.", 
+				"Vía intravenosa: Adolescentes o > 60 kg: 1-2 MUI cada 8 horas. Dosis máxima: 6 MUI al día.", 
+				"Solo la VIV requiere ajuste de dosis en insuficiencia renal, no la insuficiencia hepática , aunque debe ser usada con precaución.", 
+				"Vía inhalada: < 2 años : 0,5-1 MUI cada 12 h.", 
+				"Vía inhalada:  > 2 años: 1-2 MUI cada 12 horas (máximo 2 MUI cada 8 horas).", 
+				"En colonización crónica o infección recurrente, tratamiento durante un máximo de 3 meses." ],
+			"Cuidados": [ 
+				"Tener en cuenta la preparación a VIV o VI (inhalada).", 
+				"Preparación VIV:", 
+				"En bolo: diluir un vial en 10-50 ml de SSFF 0,9% o API.  La dosis máxima que se puede administrar en forma de inyección intravenosa en bolo es de 2 MUI.",
+				"VIV: diluir el vial en 50 ml y administrar en 30 minutos aproximadamente. Si se desea administrar en perfusión continua: administrar la mitad de la dosis total en inyección intravenosa directa (3-10 minutos); 1-2 horas después, administrar la dosis restante en una perfusión de 22-23 horas.", 
+				"Preparación por vía inhalada:", 
+				"Diluir en 2-4 ml de API antes de ser administrado mediante un nebulizador adecuado unido a una fuente de aire/oxígeno.",
+				"Administrar en habitación ventilada. En caso de que se administre otro tipo de terapia por vía inhalatoria, el colistimetato de sodio se administrará en último lugar.  OJO:  En el caso de la solución para inhalación: el vial reconstituido debe utilizarse inmediatamente;en caso contrario puede dar lugar a un aumento de la toxicidad pulmonar por aumento de la concentración de colistina.",
+				"Monitorear control diuresis, ingresos, balance hídrico estricto.",
+				"Estar atento a signos de alarma, evaluar datos de laboratorio alterados de función renal, e informar inmediatamente al médico responsable, Registrar en las notas de enfermería con detalle normalidad/ anormalidad evidenciados.",
+				"Conocimiento de la dosis según requerimiento del paciente.",
+				"Valorar en el paciente que va a recibir el tratamiento función neuromuscular antes para identificar la afectación del medicamento y los riesgos probables, implica estar atento a los signos de alarma de falla , alteración de la función neuromuscular.",
+				"Evaluar la función respiratoria del paciente antes y durante el tratamiento de colistina mediante nebulizador, ante el riesgo de signos exacerbantes como: tos o broncoespasmo.",
+				"Programar, ORGANIZAR  el kardex de enfermería evitando el uso concomitante o secuencial con fármacos  fármacos nefrotóxicos y neurotóxicos, particularmente bacitracina, estreptomicina, paromomicina, polimixina B, tobramicina, neomicina, gentamicina y amikacina.",
+				"Aplicar la vigilancia a través de un checkin list (doble control)de una segunda persona, evitando el riesgo.",
+				"Comprobar, verificar la presentación e indicación de la terapia, contrastando con el medicamento en físico."
+				]
+		},
+		"Fluconazol" :
+		{
+			"NombreFarmacologico": "Fluconazol",
+			"NombreComercial": "Fluconazol",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"Ganciclovir" :
+		{
+			"NombreFarmacologico": "GCV sódico",
+			"NombreComercial": "Ganciclovir",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"Linezolid" :
+		{
+			"NombreFarmacologico": "Linezolid",
+			"NombreComercial": "Zyvoxid, Zyvox",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"Meropenem" :
+		{
+			"NombreFarmacologico": "Meropenem",
+			"NombreComercial": "Meropenem",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"Metronidazol" :
+		{
+			"NombreFarmacologico": "Metronidazol",
+			"NombreComercial": "Flagyl 500mg/ 100ml",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"Oxacilina" :
+		{
+			"NombreFarmacologico": "Oxacilina",
+			"NombreComercial": "Oxacilina",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"Piperacilina - Tazobactam" :
+		{
+			"NombreFarmacologico": "Piperacilina sódica y Tazobactam sódica",
+			"NombreComercial": "Piperacilina-tazobactam",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"Vancomicina" :
+		{
+			"NombreFarmacologico": "Vancomicina",
+			"NombreComercial": "Vancomicina",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		}		
+	},		
+	"ANTIULCEROSOS, ANTIEMETICOS":
+	{
+		"ACIDO TRANEXAMICO" :
+		{			
+			"NombreFarmacologico": "nf11",
+			"NombreComercial": "nc11",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},		
+		"DIMENHIDRINATO-GRAVOL" :
+		{			
+			"NombreFarmacologico": "nf12",
+			"NombreComercial": "nc12",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},		
+		"OMEPRAZOL" :
+		{			
+			"NombreFarmacologico": "nf12",
+			"NombreComercial": "nc12",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},		
+		"ONDANSETRON" :
+		{			
+			"NombreFarmacologico": "nf12",
+			"NombreComercial": "nc12",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},		
+		"RANITIDINA" :
+		{			
+			"NombreFarmacologico": "nf12",
+			"NombreComercial": "nc12",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		}
+	},
+	"CORTICOIDES":
+	{
+		"AMINOFILINA" :
+		{
+			"NombreFarmacologico": "n21",
+			"NombreComercial": "nc21",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"CLORFERINAMINA" :
+		{
+			"NombreFarmacologico": "nf22",
+			"NombreComercial": "nc22",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"DEXAMETASONA" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"HIDROCORTISONA" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"METILPREDNISOLONA" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		}
+	},
+	"DIURÉTICOS":
+	{
+		"FUROSEMIDA" :
+		{
+			"NombreFarmacologico": "n21",
+			"NombreComercial": "nc21",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"MANITOL" :
+		{
+			"NombreFarmacologico": "nf22",
+			"NombreComercial": "nc22",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		}
+	},
+	"ELECTROLITOS y OTROS":
+	{
+		"BICARBONATO DE SODIO" :
+		{
+			"NombreFarmacologico": "n21",
+			"NombreComercial": "nc21",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"CLORURO POTÁSICO" :
+		{
+			"NombreFarmacologico": "nf22",
+			"NombreComercial": "nc22",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"CLORURO DE SODIO 20% y 0.9%" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"FOSFOKALIUM" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"GLUCONATO DE CALCIO" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		},
+		"SULFATO DE MAGNESIO 15%" :
+		{
+			"NombreFarmacologico": "nf23",
+			"NombreComercial": "nc23",
+			"Grupo": "nn",
+			"PrincipioActivo": "pa",
+			"Accion": "accio",
+			"Presentacion": [ 
+				"Frasco: ", 
+				"Ampolla: ", 
+				"Vial: " ],
+			"Reconstitucion": "rec",
+			"Dosis": [ 
+				"D1", 
+				"D2", 
+				"D3" ],
+			"Cuidados": [ 
+				"ExoCuidado1", 
+				"ExoCuidado2", 
+				"ExoCuidado3" ]
+		}
+	}
+}
